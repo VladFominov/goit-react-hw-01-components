@@ -40,5 +40,6 @@ export const TransactionTd = styled.td`
 
   &:not(:last-child) {
     border-right: 1px solid grey;
+    
   }
 `;
