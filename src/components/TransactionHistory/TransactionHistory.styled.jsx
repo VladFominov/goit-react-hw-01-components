@@ -37,9 +37,5 @@ export const TransactionTr = styled.tr`
 export const TransactionTd = styled.td`
   text-align: center;
   padding: 25px;
-
-  &:not(:last-child) {
-    border-right: 1px solid grey;
-    
   }
 `;
